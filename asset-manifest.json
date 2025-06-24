@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//ebusrevolutsavingstracker.github.io/ebusrevolutsavingtracker.github.io/static/css/main.4b4e3e4a.css",
-    "main.js": "//ebusrevolutsavingstracker.github.io/ebusrevolutsavingtracker.github.io/static/js/main.0155bf69.js",
-    "static/js/453.6f4d3a9d.chunk.js": "//ebusrevolutsavingstracker.github.io/ebusrevolutsavingtracker.github.io/static/js/453.6f4d3a9d.chunk.js",
-    "index.html": "//ebusrevolutsavingstracker.github.io/ebusrevolutsavingtracker.github.io/index.html",
-    "main.4b4e3e4a.css.map": "//ebusrevolutsavingstracker.github.io/ebusrevolutsavingtracker.github.io/static/css/main.4b4e3e4a.css.map",
-    "main.0155bf69.js.map": "//ebusrevolutsavingstracker.github.io/ebusrevolutsavingtracker.github.io/static/js/main.0155bf69.js.map",
-    "453.6f4d3a9d.chunk.js.map": "//ebusrevolutsavingstracker.github.io/ebusrevolutsavingtracker.github.io/static/js/453.6f4d3a9d.chunk.js.map"
+    "main.css": "//ebusrevolutsavingstracker.github.io/static/css/main.4b4e3e4a.css",
+    "main.js": "//ebusrevolutsavingstracker.github.io/static/js/main.305cecb5.js",
+    "static/js/453.6f4d3a9d.chunk.js": "//ebusrevolutsavingstracker.github.io/static/js/453.6f4d3a9d.chunk.js",
+    "index.html": "//ebusrevolutsavingstracker.github.io/index.html",
+    "main.4b4e3e4a.css.map": "//ebusrevolutsavingstracker.github.io/static/css/main.4b4e3e4a.css.map",
+    "main.305cecb5.js.map": "//ebusrevolutsavingstracker.github.io/static/js/main.305cecb5.js.map",
+    "453.6f4d3a9d.chunk.js.map": "//ebusrevolutsavingstracker.github.io/static/js/453.6f4d3a9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b4e3e4a.css",
-    "static/js/main.0155bf69.js"
+    "static/js/main.305cecb5.js"
   ]
 }
